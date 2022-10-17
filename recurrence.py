@@ -1,3 +1,12 @@
+"""
+Recurrence Relations
+Zain Fox-Latif
+
+These are a couple of functions that use recursive programming to solve calculate the
+subsequent terms from a recurrence relation.
+"""
+
+
 from fractions import Fraction
 
 def recurrence(n):
